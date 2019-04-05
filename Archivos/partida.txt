@@ -1,0 +1,83 @@
+1.e4 c5 2.Cf3 e6 3.d4 cxd4
+4.Cxd4 a6 Esta es la movida que
+identifica a la variante Paulsen-Kan,
+desde este escaque el peón negro
+controla cualquier molesto salto de
+las figuras blancas y a la vez apoya el
+típico ataque de las minorías con b5.
+5.Cc3 Dc7 Este movimiento está
+concebido dentro del espíritu de la
+variante Paulsen-Kan, la dama ne-
+gra se ubica cómodamente en la co-
+lumna Semiabierta c, desde donde
+vigila el centro y es protegida por el
+peón de a6, recuerde que una de las
+ideas cardinales de la Defensa Sici-
+liana es la presión por la columna c y
+el ataque de las minorías con a6-b5,
+ideas muy presente en esta variante.
+6.Ad3 Cf6 7.0-0 d6 8.Rh1 Cc6
+Las negras deciden desarrollar su
+flanco dama antes de tomar otros
+derroteros. Se ha jugado por ejem-
+plo: [8...Cbd7 9.f4 b5 10.De2 Ab7
+11.Ad2 Cc5 (11...Ae7 12.Tae1 b4
+13.Ca4 Las blancas están algo mejor,
+Bacallao Alonso,Y-Hernandez Car-
+menates,H/Las Tunas 2009) 12.e5
+dxe5 13.fxe5 Cfd7 14.Tae1 Cxd3
+15.cxd3 Ac5 16.Dg4 Axd4 17.Dxd4 0-
+0 18.Ag5 Tae8 19.Te3 Cxe5 20.Txe5
+f6 21.Tc5 con clara ventaja de las
+piezas
+blancas.
+Safarli,E-
+Laylo,D/Moscow RUS 2010] 9.Ae3
+Ae7 10.f4
+Típica jugada ofensiva de las blancas
+en muchos de los sistemas sicilia-
+nos, se apunta hacia una posible
+ruptura en f5, a la vez que se libera
+la casilla f3 como base de operacio-
+nes en el flanco rey. 10...Cxd4 Eli-
+minando el caballo central las ne-
+gras tratan de restar posibilidades
+ofensivas a su rival. Un duro revés se
+experimentó luego de: [10...0-0
+11.Df3 Te8 12.Tae1 Af8 13.Dg3 Cb4
+14.e5 Cd7 15.Ce4 Cxd3 16.cxd3 dxe5
+17.f5 Da5 18.fxe6 fxe6 19.Df3 Cf6
+20.Cxf6+ gxf6 21.Dxf6 Dc7 22.Cf3
+Ag7 23.Dh4 Dd8 24.Dh5 Tf8 25.Cg5
+h6 26.Cf7 Dxd3 27.Axh6 Dh7 28.Te3
+1-0
+Korneev,O-Vidarte
+Mora-
+les,A/Badalona 1995] 11.Axd4 e5
+Interesante acción defensiva central
+muy asociada con el cambio en d4.
+12.Ae3 Ae6 Una jugada desafortu-
+nada, más lógico resultaba [12...0-0
+13.Df3 Ad7 14.a4 Da5 15.Cd5 Con
+juego complicado.] 13.Df3 0-0
+14.f5 Ad7 15.g4 Buena jugada, Con el control del
+centro este tipo de ataque es posible,
+la supremacía blanca es evidente, al
+parecer las negras no cuentan con
+recursos suficientes para detener la
+avalancha de peones enemiga.
+15...Ac6 [15...d5 resultaba un re-
+curso desesperado pero merecía la
+atención. 16.Cxd5 Cxd5 17.exd5 f6
+18.c4 y aunque las blancas dictan los
+designios el ataque se detiene.
+18...Tac8 19.a3 a5 20.Tac1] 16.g5
+Ce8 17.f6 Fuerte y a la vez decisivo, la
+partida ya está decidida. 17...Ad8
+18.fxg7 Cxg7 19.Cd5 Axd5
+20.exd5 f5 21.gxf6 Axf6 22.Dh3
+h5 23.Tg1 Df7 24.Ae4 Rh8
+25.Tg6 De7 26.Tag1 1-0
+
+
+

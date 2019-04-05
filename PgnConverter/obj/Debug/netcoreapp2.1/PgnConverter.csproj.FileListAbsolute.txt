@@ -1,0 +1,11 @@
+/home/gonza/NETCORE/PGNConverter/PgnConverter/obj/Debug/netcoreapp2.1/PgnConverter.csprojAssemblyReference.cache
+/home/gonza/NETCORE/PGNConverter/PgnConverter/obj/Debug/netcoreapp2.1/PgnConverter.csproj.CoreCompileInputs.cache
+/home/gonza/NETCORE/PGNConverter/PgnConverter/obj/Debug/netcoreapp2.1/PgnConverter.AssemblyInfoInputs.cache
+/home/gonza/NETCORE/PGNConverter/PgnConverter/obj/Debug/netcoreapp2.1/PgnConverter.AssemblyInfo.cs
+/home/gonza/NETCORE/PGNConverter/PgnConverter/bin/Debug/netcoreapp2.1/PgnConverter.deps.json
+/home/gonza/NETCORE/PGNConverter/PgnConverter/bin/Debug/netcoreapp2.1/PgnConverter.runtimeconfig.json
+/home/gonza/NETCORE/PGNConverter/PgnConverter/bin/Debug/netcoreapp2.1/PgnConverter.runtimeconfig.dev.json
+/home/gonza/NETCORE/PGNConverter/PgnConverter/bin/Debug/netcoreapp2.1/PgnConverter.dll
+/home/gonza/NETCORE/PGNConverter/PgnConverter/bin/Debug/netcoreapp2.1/PgnConverter.pdb
+/home/gonza/NETCORE/PGNConverter/PgnConverter/obj/Debug/netcoreapp2.1/PgnConverter.dll
+/home/gonza/NETCORE/PGNConverter/PgnConverter/obj/Debug/netcoreapp2.1/PgnConverter.pdb
